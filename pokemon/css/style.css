@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+   font-family: 'Fira Code', sans-serif;
+   background-color: rgb(00, 00, 00);
+   color: rgb(0, 199, 0);
+}
